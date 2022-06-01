@@ -6,3 +6,6 @@ Basic Java language constructs
 
 ### Short descriptiion
 Statistics display applications built
+
+### Grade
+78/100
